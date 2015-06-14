@@ -1,0 +1,5 @@
+E:\WorkStudio\WebApplication6\ConfigGen\bin\Debug\ConfigGen.exe.config
+E:\WorkStudio\WebApplication6\ConfigGen\bin\Debug\ConfigGen.exe
+E:\WorkStudio\WebApplication6\ConfigGen\bin\Debug\ConfigGen.pdb
+E:\WorkStudio\WebApplication6\ConfigGen\obj\Debug\ConfigGen.exe
+E:\WorkStudio\WebApplication6\ConfigGen\obj\Debug\ConfigGen.pdb

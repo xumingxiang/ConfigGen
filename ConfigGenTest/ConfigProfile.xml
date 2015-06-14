@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<profile>
+  <dev>
+    <Environment><![CDATA[dev]]></Environment>
+  </dev>
+  <test>
+    <Environment>test</Environment>
+  </test>
+  <beta>
+    <Environment>beta</Environment>
+  </beta>
+  <prd>
+    <Environment>prd</Environment>
+  </prd>
+</profile>
