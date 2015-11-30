@@ -1,8 +1,0 @@
-E:\WorkStudio\WebApplication6\ConfigGen\obj\Release\ConfigGen.csprojResolveAssemblyReference.cache
-E:\WorkStudio\WebApplication6\ConfigGen\bin\Release\ConfigGen.exe.config
-E:\WorkStudio\WebApplication6\ConfigGen\bin\Release\ConfigGen.exe
-E:\WorkStudio\WebApplication6\ConfigGen\bin\Release\ConfigGen.pdb
-E:\WorkStudio\WebApplication6\ConfigGen\obj\Release\ConfigGen.exe
-E:\WorkStudio\WebApplication6\ConfigGen\obj\Release\ConfigGen.pdb
-E:\WorkStudio\WebApplication6\ConfigGen\bin\Release\RazorEngine.dll
-E:\WorkStudio\WebApplication6\ConfigGen\bin\Release\RazorEngine.xml
